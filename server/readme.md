@@ -138,12 +138,6 @@ POST /api/orders
 ```
 
 
-**Check Job Status:**
-```http
-GET /api/orders/bulk/:jobId/status
-```
-
-
 
 ### Database Schema
 
